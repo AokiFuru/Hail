@@ -89,4 +89,7 @@
     <plurals name="msg_deferred_task">
         <item quantity="other">%1$d 分あと%2$s：%3$s</item>
     </plurals>
+    <string name="action_add_dynamic_shortcut">動的ショートカットに追加</string>
+    <string name="action_delete_dynamic_shortcut">動的ショートカットから削除</string>
+    <string name="action_delete_all_dynamic_shortcut">全ての動的ショートカットを削除</string>
 </resources>
